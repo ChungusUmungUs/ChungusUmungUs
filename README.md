@@ -1,4 +1,6 @@
-### Hi, my name is Jackson 👋
+### Hi, my name is Jackson.
+
+I'm currently a student at ODU's Game Studies & Design program, though I have experience with open source projects in the past. Though my contributions are long gone due to account inactivity, I was mostly involved in creating modules for the Foundry VTT Pathfinder 2e implementation. 
 
 <!--
 **ChungusUmungUs/ChungusUmungUs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
