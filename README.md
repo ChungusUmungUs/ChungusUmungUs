@@ -2,7 +2,7 @@
 
 I'm currently a student at ODU's Game Studies & Design program, though I have experience with open source projects in the past. Though my contributions are long gone due to account inactivity, I was mostly involved in creating modules for the Foundry VTT Pathfinder 2e implementation. 
 
-I'm currently working on a small, private blog about game design concepts and difficulties while juggling work, school, and personal duties.
+I'm currently working on a small, private blog about game design concepts and difficulties while juggling work, school, and personal duties. I'm mainly hoping to use the blog in a future portfolio, but for now it's a way to organize and develop thoughts regarding design decisions, game mechanics, and development difficulties.
 
 <!--
 **ChungusUmungUs/ChungusUmungUs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
