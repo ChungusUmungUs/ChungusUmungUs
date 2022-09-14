@@ -1,6 +1,6 @@
 ### Hi, my name is Jackson.
 
-I'm currently a student at ODU's Game Studies & Design program, though I have experience with open source projects in the past. Though my contributions are long gone due to account inactivity, I was mostly involved in creating modules for the Foundry VTT Pathfinder 2e implementation. 
+I'm currently a student at ODU's Game Studies & Design program, though I have experience with open source projects in the past. My only previous contributions on GitHub involve the Pathfinder Second Edition implementation in FoundryVTT and the creation of an associated module under a prior account which can be found [here](https://github.com/Golurkcanfly). As I develop further in my game design career, I hope to update this page with all of my progress.
 
 I'm currently working on a small, private blog about game design concepts and difficulties while juggling work, school, and personal duties. I'm mainly hoping to use the blog in a future portfolio, but for now it's a way to organize and develop thoughts regarding design decisions, game mechanics, and development difficulties.
 
